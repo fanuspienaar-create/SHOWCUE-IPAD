@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#d7dce1"/></linearGradient></defs>
+<g transform="translate(18 24)">
+  <path d="M0 10 L0 146 Q0 162 15 171 L31 180 Q46 189 46 171 L46  -2 Q46 -20 31 -11 L15 -2 Q0 7 0 10Z" fill="none" stroke="#fff" stroke-width="10"/>
+  <path d="M13 24 L43 42 L13 60Z" fill="#ff6a00"/>
+  <path d="M43 42 L82 20 Q99 11 99 31 L99 126 Q99 145 82 136 L43 114" fill="none" stroke="#ff6a00" stroke-width="10" stroke-linejoin="round"/>
+</g>
+<text x="132" y="142" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="800" letter-spacing="-5" fill="url(#g)">Show</text>
+<text x="487" y="142" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="800" letter-spacing="-5" fill="#ff6a00">Cue</text>
+<text x="137" y="184" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="8" fill="#fff">PLAY. PERFORM. INSPIRE.</text>
+</svg>
